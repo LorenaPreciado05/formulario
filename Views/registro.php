@@ -9,26 +9,26 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
 </head>
 <body>
-<form action="../index.php" method="POST" class="p-4" style="max-width: 400px; margin: auto; background-color: rgba(205, 191, 232, 0.6); border-radius: 8px;">
+<form action="../index.php" method="POST" class="p-4" >
 
     <div class="mb-3">
         <label for="nombre" class="form-label"><i class="fas fa-user"></i> Nombre:</label>
-        <input type="text" name="nombre" class="form-control" required>
+        <input type="text" name="nombre" class="form-control" required placeholder="Escribe tu nombre...">
     </div>
 
     <div class="mb-3">
         <label for="apellido" class="form-label"><i class="fas fa-user-tag"></i> Apellido:</label>
-        <input type="text" name="apellido" class="form-control" required>
+        <input type="text" name="apellido" class="form-control" required placeholder="Escribe tu apellido...">
     </div>
 
     <div class="mb-3">
         <label for="email" class="form-label"><i class="fas fa-envelope"></i> Email:</label>
-        <input type="email" name="email" class="form-control" required>
+        <input type="email" name="email" class="form-control" required placeholder="Escribe tu correo...">
     </div>
 
     <div class="mb-3">
         <label for="clave" class="form-label"><i class="fas fa-lock"></i> Contraseña:</label>
-        <input type="password" name="clave" class="form-control" required>
+        <input type="password" name="clave" class="form-control" required placeholder="Escribe tu contraseña...">
     </div>
 
     <button type="submit"> Registrar</button>

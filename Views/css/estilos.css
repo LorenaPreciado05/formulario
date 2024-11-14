@@ -9,27 +9,20 @@
 form {
     display: flex;
     flex-direction: column;
-    width: 100%;
-    max-width: 800px;
+    width: 90%;
+    max-width: 400px;
     margin: 0 auto;
-    padding: 2rem;
+    padding: 1rem;
     background-color: rgba(205, 191, 232, 0.6);
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    margin-top: 50px;
+    font-family: Tahoma;
 }
-
-form h2 {
-    text-align: center;
-    margin-bottom: 1rem;
-    color: rgba(131, 106, 195, 0.8);
-}
-
-
 form label {
     margin-top: 1rem;
     font-weight: bold;
     color: #333;
+
 }
 
 
@@ -64,6 +57,7 @@ form button[type="submit"] {
     cursor: pointer;
     font-size: 1rem;
     transition: background-color 0.3s;
+    font-family: Tahoma;
 
 }
 
