@@ -16,7 +16,7 @@
 <div class="main-content">
     <section>
         <h2 class="typing-effect">¡Registro exitoso!</h2>
-        <p class="typing-effect">¡!Los logros no son magia o suerte, son esfuezo y dedicaión</p>
+        <p class="typing-effect">¡!Los logros no son magia o suerte, son esfuerzo y dedicación</p>
     </section>
 </div>
 

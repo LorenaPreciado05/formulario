@@ -1,7 +1,10 @@
 <aside class="sidebar sidebar-dark">
-    <ul>
-        <li><a href="#">Dashboard</a></li>
-        <li><a href="#">Perfil</a></li>
-        <li><a href="#">Configuración</a></li>
+
+    <ul class="menu">
+        <li><a href="#">Inicio</a></li>
+        <li><a href="#">Cuentas</a></li>
+        <li><a href="#">Tarjetas</a></li>
+        <li><a href="#">Préstamos</a></li>
+        <li><a href="#">Contacto</a></li>
     </ul>
 </aside>

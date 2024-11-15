@@ -189,6 +189,19 @@ form button[type="submit"]:hover {
     width: 0;
     animation: typing 4s steps(30, end) infinite, blinkCursor 0.7s step-end infinite;
 }
+.menu-icon {
+
+    display: block;
+
+    cursor: pointer;
+
+    width: 40px;
+
+    height: 40px;
+
+    position: relative;
+
+}
 .footer {
     text-align: center;
     padding: 1rem;
@@ -199,4 +212,7 @@ form button[type="submit"]:hover {
     width: calc(110% - 220px);
     margin-left: 200px;
     z-index: 900;
+}
+.footer p {
+    margin-right: 120px;
 }

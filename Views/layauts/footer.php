@@ -1,3 +1,3 @@
 <footer class="footer">
-    <p>© Formualrio PHP</p>
+    <p>© Lorena Preciado</p>
 </footer>
